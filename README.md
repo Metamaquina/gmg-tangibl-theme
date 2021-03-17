@@ -1,4 +1,4 @@
-# Tangibls 
+# Tangibl
 
 Tema customizado para MediaGoblin.
 
@@ -7,14 +7,14 @@ Tema customizado para MediaGoblin.
 Vá até a pasta onde sua instância do MediaGoblin está localizada, navegue até a 
 pasta themes e rode:
 
-    $ git clone git@github.com:Metamaquina/tangibls-theme.git
+    $ git clone git@github.com:Metamaquina/gmg-tangibl-theme.git
 
 Altere no `mediagoblin_local.ini`, dentro da seção `[mediagoblin]` a seguinte linha:
     
-    theme = tangibls-theme
+    theme = gmg-tangibl-theme
 
 E, para servir os arquivos estáticos, rode:
 
     $ ./bin/gmg assetlink
 
-Pronto, agora sua instância do MediaGoblin rodará com o tema Tangibls.
+Pronto, agora sua instância do MediaGoblin rodará com o tema Tangibl.
