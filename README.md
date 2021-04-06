@@ -11,7 +11,7 @@ pasta themes e rode:
 
 Altere no `mediagoblin_local.ini`, dentro da seção `[mediagoblin]` a seguinte linha:
     
-    theme = gmg-tangibl-theme
+    theme = mediagoblin-tangibl-theme
 
 E, para servir os arquivos estáticos, rode:
 
