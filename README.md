@@ -7,7 +7,7 @@ Tema customizado para MediaGoblin.
 Vá até a pasta onde sua instância do MediaGoblin está localizada, navegue até a 
 pasta themes e rode:
 
-    $ git clone git@github.com:Metamaquina/gmg-tangibl-theme.git
+    $ git clone git@github.com:Metamaquina/mediagoblin-tangibl-theme.git
 
 Altere no `mediagoblin_local.ini`, dentro da seção `[mediagoblin]` a seguinte linha:
     
